@@ -6,6 +6,7 @@ the Pandas library. The main focus was on reading, selecting, cleaning, manipula
 (melting and pivoting), visualizing, and analyzing data.
 
 **Tasks:**
+
 **_Data Importing and Inspection:_**
 1. Import the necessary libraries (pandas, numpy, matplotlib.pyplot).
 2. Load the Titanic dataset (you can download it from here) using pandas.
